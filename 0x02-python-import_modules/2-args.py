@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+if _name_ == "_main_":
 from sys import argv
 arguments = argv
 length = len(arguments) - 1
